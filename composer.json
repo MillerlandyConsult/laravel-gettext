@@ -1,5 +1,5 @@
 {
-    "name": "MillerlandyConsult/laravel-gettext",
+    "name": "mconsult/laravel-gettext",
     "description": "Adds localization support to laravel applications in an easy way using Poedit and GNU gettext. This is a fork from zerospam package, all credit to them",
     "homepage": "https://github.com/MillerlandyConsult/laravel-gettext",
     "keywords": [
