@@ -1,4 +1,5 @@
-This is only an small modification to be able to use on Laravel 9.
+This is only an small modification to be able to use on Laravel's versions higher than 9.
+The current Laravel accepted version is Laravel 12.0
 The rest of the code is not mine all the credit to zerospam
 # Laravel Gettext
 
