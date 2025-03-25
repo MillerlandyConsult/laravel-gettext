@@ -30,9 +30,9 @@
     },
     "require-dev": {
         "mockery/mockery": "dev-master",
-        "phpunit/phpunit": "~7.0 || ^8.5 || ^9 || ^10",
+        "phpunit/phpunit": "~7.0 || ^8.5 || ^9 || ^10 || ^11",
         "squizlabs/php_codesniffer" : "1.5.*",
-        "laravel/laravel": "^8.0 || ^9.0 || ^10.0 || ^11.0",
+        "laravel/laravel": "^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0",
         "php-coveralls/php-coveralls": "^2.1"
     },
     "autoload": {
